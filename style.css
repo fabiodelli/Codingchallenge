@@ -1,0 +1,107 @@
+
+html{
+    max-width: auto;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* BODY--------------------------------------- */
+
+body{
+    background-size: 100%;
+    background-repeat: no-repeat;  
+}
+
+.logo{
+    
+    width: 200px;
+    
+}
+
+.img-center{
+
+    text-align: center;
+    
+}
+/* GRAY PANEL--------------------------------- */
+
+.container{  
+    background-color:rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 3%;
+    padding-top: 3%;
+    height: 600px;
+    width: 1000px;
+}
+
+h1{  
+    margin-left: 32%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 23px;
+}
+
+/* INPUT PANEL------------------------------- */
+
+.inputpanel{
+    background-color: rgb(0, 255, 0);
+    margin: 0 10% 0 10%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    padding-left: 24%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.button{
+    border-radius: 5px;
+    border: none;
+    }
+
+/* DEVICE------------------------------------ */
+
+.device-1{
+    color: white;
+    margin-left: 10%;
+}
+
+.device-2{
+    color: white;
+    margin-left: 10%;
+}
+
+.device-3{
+    color: white;
+    margin-left: 10%; 
+}
+
+/* LOCATION INFO AND CHARGE BAR COLOR--------- */
+
+.charge-1{  
+    margin-right: 68%;
+    border-radius: 5px;
+    background-color: orange;
+    color: orange;
+}
+
+.charge-2{  
+    margin-right: 48%;
+    border-radius: 5px;
+    background-color: rgb(0, 255, 0);
+    color: rgb(0, 255, 0);
+}
+
+.charge-3{  
+    margin-right: 84%;
+    border-radius: 5px;
+    background-color: rgb(204, 44, 44);
+    color: rgb(204, 44, 44);
+}
+
+/*CHARGE BAR-----------------------------------*/
+
+p{
+    margin-top: 5px;
+    margin-bottom: 5px; 
+}
