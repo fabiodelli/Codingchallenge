@@ -22,7 +22,11 @@ body{
     text-align: center;
     
 }
-/* GRAY PANEL--------------------------------- */
+p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+/* GRAY BOX--------------------------------- */
 
 .container{  
     background-color:rgba(0, 0, 0, 0.5);
@@ -45,7 +49,7 @@ h1{
 
 .inputpanel{
     background-color: rgb(0, 255, 0);
-    margin: 0 10% 0 10%;
+    margin: 0 10%;
     margin-top: 5px;
     margin-bottom: 10px;
     border-radius: 7px;
@@ -59,24 +63,14 @@ h1{
     border: none;
     }
 
-/* DEVICE------------------------------------ */
+/* DEVICE INFO-------------------------------- */
 
-.device-1{
+.device-info{
     color: white;
     margin-left: 10%;
 }
 
-.device-2{
-    color: white;
-    margin-left: 10%;
-}
-
-.device-3{
-    color: white;
-    margin-left: 10%; 
-}
-
-/* LOCATION INFO AND CHARGE BAR COLOR--------- */
+/* CHARGE BAR COLOR---------------------------- */
 
 .charge-1{  
     margin-right: 68%;
@@ -99,9 +93,13 @@ h1{
     color: rgb(204, 44, 44);
 }
 
-/*CHARGE BAR-----------------------------------*/
 
-p{
-    margin-top: 5px;
-    margin-bottom: 5px; 
-}
+
+
+
+
+
+
+
+
+
